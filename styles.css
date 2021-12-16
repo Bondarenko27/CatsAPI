@@ -1,0 +1,15 @@
+
+
+.button{
+    position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+border: 5px solid #4109c4;
+padding: 10px;
+}
+.box{
+border:5 px outset red;
+ background-color: lightblue;
+ text-align: center;
+}
